@@ -46,7 +46,7 @@ a {
 	top: 0; /* ajuste conforme necessário */
 	left: 0; /* ajuste conforme necessário */
 	width: 100%; /* ajuste para cobrir a área */
-	height: 150%; /* ajuste para cobrir a área */
+	height: 175%; /* ajuste para cobrir a área */
 	background-color: rgba(0, 0, 0, 0.7); /* fundo preto com opacidade 70% */
 	display: flex;
 	justify-content: center;
